@@ -1,3 +1,6 @@
 [submodule "introduccion"]
 	path = introduccion
 	url = https://github.com/Gaussito/spring-web-demo
+[submodule "sprint-web-di"]
+	path = sprint-web-di
+	url = https://github.com/Gaussito/sprint-web-di
