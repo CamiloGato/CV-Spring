@@ -4,3 +4,6 @@
 [submodule "sprint-web-di"]
 	path = sprint-web-di
 	url = https://github.com/Gaussito/sprint-web-di
+[submodule "spring-form"]
+	path = spring-form
+	url = https://github.com/Gaussito/spring-form
